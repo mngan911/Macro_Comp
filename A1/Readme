@@ -1,10 +1,8 @@
 Assignment 1
 
 LOS:
-- Handle macroeconomic data
+- Handle macroeconomic data (clean Dataset)
 - perform transformations
 - apply univariate models (Given AR - skip the choosing model step)
 - predict key economic indicators
 - evaluate these forecasts
-
-
